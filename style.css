@@ -3,18 +3,18 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f9f9f9;
-    color: #333;
+    color: #333333;
 }
 
 header {
-    background-color: #ee2e08;
+    background-color: #3a08ee;
     color: white;
     text-align: center;
     padding: 1em 0;
 }
 
 main {
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
 
